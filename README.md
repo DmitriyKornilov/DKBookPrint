@@ -1,4 +1,4 @@
-﻿# DKBookPrint
+﻿# DKBookPrint for Windows and Linux
  If you need to print a document on A4 sheets so that, by folding them, you get a book, then this program will help you calculate the sequence of page numbers.
 
  Если вам нужно распечатать документ на листах А4 так, чтобы, сложив их, получить книгу, то эта программа поможет рассчитать последовательность номеров страниц.
