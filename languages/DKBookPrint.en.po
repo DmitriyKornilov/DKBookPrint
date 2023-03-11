@@ -1,0 +1,99 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: ustrings.str_arrangement
+msgid "Расстановка страниц по листам"
+msgstr "Pages arrangement on sheets"
+
+#: ustrings.str_book
+msgid "Книга"
+msgstr "Book"
+
+#: ustrings.str_calculate
+msgctxt "ustrings.str_calculate"
+msgid "Рассчитать"
+msgstr "Calculate"
+
+#: ustrings.str_clear
+msgctxt "ustrings.str_clear"
+msgid "Очистить"
+msgstr "Clear"
+
+#: ustrings.str_copy
+msgctxt "ustrings.str_copy"
+msgid "Копировать"
+msgstr "Copy"
+
+#: ustrings.str_divide
+msgctxt "ustrings.str_divide"
+msgid "Разбить на книги по"
+msgstr "Divide into books of"
+
+#: ustrings.str_first_page
+msgid "Первая страница"
+msgstr "First page"
+
+#: ustrings.str_last_page
+msgid "Последняя страница"
+msgstr "Last page"
+
+#: ustrings.str_onebook
+msgid "На одну книгу"
+msgstr "For one book"
+
+#: ustrings.str_pages
+msgctxt "ustrings.str_pages"
+msgid "страниц"
+msgstr "pages"
+
+#: ustrings.str_page_numbers
+msgctxt "ustrings.str_page_numbers"
+msgid "Номера страниц"
+msgstr "Pages numbers"
+
+#: ustrings.str_part
+msgid "Часть"
+msgstr "Part"
+
+#: ustrings.str_parts
+msgid "Части"
+msgstr "Parts"
+
+#: ustrings.str_part_add
+msgctxt "ustrings.str_part_add"
+msgid "Добавить часть"
+msgstr "Add part"
+
+#: ustrings.str_part_del
+msgctxt "ustrings.str_part_del"
+msgid "Удалить часть"
+msgstr "Delete part"
+
+#: ustrings.str_range_error
+msgid "Не задан диапазон страниц"
+msgstr "Pages range not defined"
+
+#: ustrings.str_range_intersect
+msgid "Пересечение диапазонов страниц"
+msgstr "Pages ranges intersection"
+
+#: ustrings.str_required
+msgid "Необходимое количество листов бумаги формата А4"
+msgstr "Required number of A4 paper sheets"
+
+#: ustrings.str_results
+msgid "Итоги отдельно для каждой книги"
+msgstr "Results separately for each book"
+
+#: ustrings.str_sheet_number
+msgid "Номер листа"
+msgstr "Sheet number"
+
+#: ustrings.str_side
+msgid "Сторона"
+msgstr "Side"
+
+#: ustrings.str_total
+msgid "На весь документ"
+msgstr "For the whole document"
+

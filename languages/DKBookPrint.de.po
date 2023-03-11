@@ -1,0 +1,99 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: ustrings.str_arrangement
+msgid "Расстановка страниц по листам"
+msgstr "Anordnung der Seiten nach Blättern"
+
+#: ustrings.str_book
+msgid "Книга"
+msgstr "Buch"
+
+#: ustrings.str_calculate
+msgctxt "ustrings.str_calculate"
+msgid "Рассчитать"
+msgstr "Berechnung"
+
+#: ustrings.str_clear
+msgctxt "ustrings.str_clear"
+msgid "Очистить"
+msgstr "Klar"
+
+#: ustrings.str_copy
+msgctxt "ustrings.str_copy"
+msgid "Копировать"
+msgstr "Kopieren"
+
+#: ustrings.str_divide
+msgctxt "ustrings.str_divide"
+msgid "Разбить на книги по"
+msgstr "Aufgeteilt in Bücher von"
+
+#: ustrings.str_first_page
+msgid "Первая страница"
+msgstr "Erste Seite"
+
+#: ustrings.str_last_page
+msgid "Последняя страница"
+msgstr "Letzte Seite"
+
+#: ustrings.str_onebook
+msgid "На одну книгу"
+msgstr "Für ein Buch"
+
+#: ustrings.str_pages
+msgctxt "ustrings.str_pages"
+msgid "страниц"
+msgstr "Seiten"
+
+#: ustrings.str_page_numbers
+msgctxt "ustrings.str_page_numbers"
+msgid "Номера страниц"
+msgstr "Seitenzahlen"
+
+#: ustrings.str_part
+msgid "Часть"
+msgstr "Teil"
+
+#: ustrings.str_parts
+msgid "Части"
+msgstr "Teile"
+
+#: ustrings.str_part_add
+msgctxt "ustrings.str_part_add"
+msgid "Добавить часть"
+msgstr "Teil hinzufügen"
+
+#: ustrings.str_part_del
+msgctxt "ustrings.str_part_del"
+msgid "Удалить часть"
+msgstr "Teil löschen"
+
+#: ustrings.str_range_error
+msgid "Не задан диапазон страниц"
+msgstr "Seitenbereich nicht festgelegt"
+
+#: ustrings.str_range_intersect
+msgid "Пересечение диапазонов страниц"
+msgstr "Schnittpunkt des Seitenbereichs"
+
+#: ustrings.str_required
+msgid "Необходимое количество листов бумаги формата А4"
+msgstr "Erforderliche Anzahl von Blättern A4-Papier"
+
+#: ustrings.str_results
+msgid "Итоги отдельно для каждой книги"
+msgstr "Ergebnisse separat für jedes Buch"
+
+#: ustrings.str_sheet_number
+msgid "Номер листа"
+msgstr "Nummer des Papierbogens"
+
+#: ustrings.str_side
+msgid "Сторона"
+msgstr "Blattseite"
+
+#: ustrings.str_total
+msgid "На весь документ"
+msgstr "Für das gesamte Dokument"
+

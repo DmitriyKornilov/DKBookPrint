@@ -1,0 +1,99 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: ustrings.str_arrangement
+msgid "Расстановка страниц по листам"
+msgstr ""
+
+#: ustrings.str_book
+msgid "Книга"
+msgstr ""
+
+#: ustrings.str_calculate
+msgctxt "ustrings.str_calculate"
+msgid "Рассчитать"
+msgstr ""
+
+#: ustrings.str_clear
+msgctxt "ustrings.str_clear"
+msgid "Очистить"
+msgstr ""
+
+#: ustrings.str_copy
+msgctxt "ustrings.str_copy"
+msgid "Копировать"
+msgstr ""
+
+#: ustrings.str_divide
+msgctxt "ustrings.str_divide"
+msgid "Разбить на книги по"
+msgstr ""
+
+#: ustrings.str_first_page
+msgid "Первая страница"
+msgstr ""
+
+#: ustrings.str_last_page
+msgid "Последняя страница"
+msgstr ""
+
+#: ustrings.str_onebook
+msgid "На одну книгу"
+msgstr ""
+
+#: ustrings.str_pages
+msgctxt "ustrings.str_pages"
+msgid "страниц"
+msgstr ""
+
+#: ustrings.str_page_numbers
+msgctxt "ustrings.str_page_numbers"
+msgid "Номера страниц"
+msgstr ""
+
+#: ustrings.str_part
+msgid "Часть"
+msgstr ""
+
+#: ustrings.str_parts
+msgid "Части"
+msgstr ""
+
+#: ustrings.str_part_add
+msgctxt "ustrings.str_part_add"
+msgid "Добавить часть"
+msgstr ""
+
+#: ustrings.str_part_del
+msgctxt "ustrings.str_part_del"
+msgid "Удалить часть"
+msgstr ""
+
+#: ustrings.str_range_error
+msgid "Не задан диапазон страниц"
+msgstr ""
+
+#: ustrings.str_range_intersect
+msgid "Пересечение диапазонов страниц"
+msgstr ""
+
+#: ustrings.str_required
+msgid "Необходимое количество листов бумаги формата А4"
+msgstr ""
+
+#: ustrings.str_results
+msgid "Итоги отдельно для каждой книги"
+msgstr ""
+
+#: ustrings.str_sheet_number
+msgid "Номер листа"
+msgstr ""
+
+#: ustrings.str_side
+msgid "Сторона"
+msgstr ""
+
+#: ustrings.str_total
+msgid "На весь документ"
+msgstr ""
+

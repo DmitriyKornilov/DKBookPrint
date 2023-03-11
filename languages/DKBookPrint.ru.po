@@ -1,0 +1,99 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: ustrings.str_arrangement
+msgid "Расстановка страниц по листам"
+msgstr "Расстановка страниц по листам"
+
+#: ustrings.str_book
+msgid "Книга"
+msgstr "Книга"
+
+#: ustrings.str_calculate
+msgctxt "ustrings.str_calculate"
+msgid "Рассчитать"
+msgstr "Рассчитать"
+
+#: ustrings.str_clear
+msgctxt "ustrings.str_clear"
+msgid "Очистить"
+msgstr "Очистить"
+
+#: ustrings.str_copy
+msgctxt "ustrings.str_copy"
+msgid "Копировать"
+msgstr "Копировать"
+
+#: ustrings.str_divide
+msgctxt "ustrings.str_divide"
+msgid "Разбить на книги по"
+msgstr "Разбить на книги по"
+
+#: ustrings.str_first_page
+msgid "Первая страница"
+msgstr "Первая страница"
+
+#: ustrings.str_last_page
+msgid "Последняя страница"
+msgstr "Последняя страница"
+
+#: ustrings.str_onebook
+msgid "На одну книгу"
+msgstr "На одну книгу"
+
+#: ustrings.str_pages
+msgctxt "ustrings.str_pages"
+msgid "страниц"
+msgstr "страниц"
+
+#: ustrings.str_page_numbers
+msgctxt "ustrings.str_page_numbers"
+msgid "Номера страниц"
+msgstr "Номера страниц"
+
+#: ustrings.str_part
+msgid "Часть"
+msgstr "Часть"
+
+#: ustrings.str_parts
+msgid "Части"
+msgstr "Части"
+
+#: ustrings.str_part_add
+msgctxt "ustrings.str_part_add"
+msgid "Добавить часть"
+msgstr "Добавить часть"
+
+#: ustrings.str_part_del
+msgctxt "ustrings.str_part_del"
+msgid "Удалить часть"
+msgstr "Удалить часть"
+
+#: ustrings.str_range_error
+msgid "Не задан диапазон страниц"
+msgstr "Не задан диапазон страниц"
+
+#: ustrings.str_range_intersect
+msgid "Пересечение диапазонов страниц"
+msgstr "Пересечение диапазонов страниц"
+
+#: ustrings.str_required
+msgid "Необходимое количество листов бумаги формата А4"
+msgstr "Необходимое количество листов бумаги формата А4"
+
+#: ustrings.str_results
+msgid "Итоги отдельно для каждой книги"
+msgstr "Итоги отдельно для каждой книги"
+
+#: ustrings.str_sheet_number
+msgid "Номер листа"
+msgstr "Номер листа"
+
+#: ustrings.str_side
+msgid "Сторона"
+msgstr "Сторона"
+
+#: ustrings.str_total
+msgid "На весь документ"
+msgstr "На весь документ"
+
