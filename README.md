@@ -7,4 +7,4 @@
 
  Si vous avez besoin d'imprimer un document sur des feuilles A4 pour obtenir un livre en les pliant, ce programme vous aidera à calculer la séquence des numéros de page.
 
-https://github.com/DmitriyKornilov/DKBookPrint/blob/main/screenshot.png
+![Screenshot](https://github.com/DmitriyKornilov/DKBookPrint/blob/main/screenshot.png)      
